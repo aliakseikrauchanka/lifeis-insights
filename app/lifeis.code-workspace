@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../lifeis"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"typescript.tsdk": "node_modules/typescript/lib",
+		"nxConsole.generateAiAgentRules": true
+	}
+}
