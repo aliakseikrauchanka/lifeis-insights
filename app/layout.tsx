@@ -19,7 +19,6 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
             <UserButton />
           </SignedIn>
           {children}
-          {children}
         </body>
       </html>
     </ClerkProvider>
